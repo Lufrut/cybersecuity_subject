@@ -37,3 +37,4 @@ build/
 
 ### Mac OS ###
 .DS_Store
+TP1/ex3_weak_password/WeakPassword/src/main/resources/rockyou_utf8.txt
